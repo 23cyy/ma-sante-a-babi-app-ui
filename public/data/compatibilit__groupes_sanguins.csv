@@ -1,0 +1,9 @@
+Groupe sanguin,Peut donner à,Peut recevoir de,% Population,Rhésus,Statut spécial
+O-,Tous,O-,7%,-,Donneur universel
+O+,"O+, A+, B+, AB+","O+, O-",37%,+,
+A-,"A-, A+, AB-, AB+","A-, O-",6%,-,
+A+,"A+, AB+","A+, A-, O+, O-",34%,+,
+B-,"B-, B+, AB-, AB+","B-, O-",2%,-,
+B+,"B+, AB+","B+, B-, O+, O-",9%,+,
+AB-,"AB-, AB+","AB-, A-, B-, O-",1%,-,
+AB+,AB+,Tous,4%,+,Receveur universel
