@@ -2,6 +2,10 @@
 
 > **Note importante** : Cette application est actuellement en cours de refonte complète pour améliorer l'expérience utilisateur et intégrer de nouvelles fonctionnalités avancées.
 
+## 🌐 Démo Live
+
+**🚀 [Essayer la démo](https://ma-sante-babi-ui.vercel.app/)**
+
 ## 📋 Description
 
 **Ma Santé à Babi** est une application de santé numérique innovante conçue spécifiquement pour la Côte d'Ivoire. Elle vise à démocratiser l'accès aux informations de santé et aux services médicaux grâce à une interface intuitive et des données ouvertes.
